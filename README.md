@@ -1,5 +1,6 @@
 # Appdev.proj2
-# appdev project1
+
+This project recieves a number from 3 to 20 from user and displays the Pascal triangle of the number. 
 
 General Description of the Application
 
